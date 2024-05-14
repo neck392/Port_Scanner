@@ -1,13 +1,13 @@
 # Port_Scanner
 ### Check open ports
-There are 2 ways to check open ports
-<ul>
+There are 2 ways to check open ports.
+<ol>
   <li>Executable file written in Python(PortScan.py)</li>
   <li>PortScan.ps1</li>
-</ul>
+</ol>
 
 ## How to run
-If Python is installed, you can also run it as PortScan.py.
+If Python is installed, you can also run it as PortScan.py file.
 ```
 git clone https://github.com/neck392/Port_Scanner.git
 cd Port_Scanner\dist
