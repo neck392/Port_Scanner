@@ -1,5 +1,10 @@
 # Port_Scanner
 ### Check open ports
+There are 2 ways to check open ports
+<ul>
+  <li>PortScan.py</li>
+  <li>PortScan.ps1</li>
+</ul>
 
 ## How to run
 ```
